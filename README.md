@@ -1,6 +1,6 @@
-# Convo SDK Cookbook - Quick Start Recipes
+# Convo SDK
 
-Transform your LangGraph TypeScript apps from stateless to stateful in minutes with cloud-based persistence.
+Transform your LangGraph TypeScript apps from stateless to stateful in minutes with cloud-based checkpointer persistence.
 
 ## Why Convo SDK?
 
